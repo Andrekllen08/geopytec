@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: geopytec
-Version: 0.1.0
-Summary: Biblioteca para processamento de ensaios de cisalhamento direto
-Author: André Monteiro Klen
-Requires-Dist: pandas
-Requires-Dist: numpy
-Requires-Dist: matplotlib
-Requires-Dist: scipy
