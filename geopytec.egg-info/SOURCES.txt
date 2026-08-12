@@ -1,0 +1,11 @@
+setup.py
+geopytec/__init__.py
+geopytec/adensamento.py
+geopytec/cisalhamento.py
+geopytec/io.py
+geopytec/processamento.py
+geopytec.egg-info/PKG-INFO
+geopytec.egg-info/SOURCES.txt
+geopytec.egg-info/dependency_links.txt
+geopytec.egg-info/requires.txt
+geopytec.egg-info/top_level.txt
